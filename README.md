@@ -1,3 +1,3 @@
 # Bookmark-Keeper
 
-Link to project [here](https://github.com/josephade/Bookmark-Keeper.git)
+Link to project [here](https://josephade.github.io/Bookmark-Keeper/)
